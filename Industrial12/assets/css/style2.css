@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: black;
+}
+.green_text {
+    color: black;
+    display: inline-block;
+    background-color: greenyellow;
+}
+video {
+    width: 100%;
+    height: 100%;
+}
